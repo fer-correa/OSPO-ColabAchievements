@@ -1,0 +1,10 @@
+# Configuration for the OSPO-ColabAchievements Worker
+
+# List of GitHub organizations to scan for contributions.
+organizations:
+  - "cncf" # Example
+
+# Or, a specific list of repositories
+repositories:
+  # - "owner/repo1"
+  # - "owner/repo2"
