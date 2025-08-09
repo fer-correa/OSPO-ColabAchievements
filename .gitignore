@@ -15,3 +15,9 @@ venv.bak
 # IDEs
 .vscode/
 .idea/
+
+# db
+database.db
+
+ospo_config.yml
+frontend/.vite/
